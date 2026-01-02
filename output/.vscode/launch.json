@@ -8,13 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-<<<<<<< HEAD
       "cwd": "c:/Users/Naseer Ahmed/Desktop/sc lab/lab assignment1",
       "program": "c:/Users/Naseer Ahmed/Desktop/sc lab/lab assignment1/build/Debug/outDebug",
-=======
-      "cwd": "c:/Users/Naseer Ahmed/Desktop/sc lab",
-      "program": "c:/Users/Naseer Ahmed/Desktop/sc lab/build/Debug/outDebug",
->>>>>>> aa36573 (Lab 11 Inheritance)
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
